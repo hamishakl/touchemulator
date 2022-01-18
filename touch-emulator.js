@@ -360,3 +360,5 @@
         window[exportName] = TouchEmulator;
     }
 })(window, document, "TouchEmulator");
+
+console.log('cdn working')

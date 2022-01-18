@@ -25,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/hammerjs/touchemulator/issues"
   },
-  "homepage": "https://github.com/hammerjs/touchemulator"
+  "homepage": "https://github.com/hammerjs/touchemulator",
+  "dependencies": {
+    "hammer-touchemulator": "^0.0.2"
+  }
 }
